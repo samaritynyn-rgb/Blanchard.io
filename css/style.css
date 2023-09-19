@@ -1909,7 +1909,7 @@ input.valid.success-alert {
 .form-wrap {
   display: flex;
   flex-direction: column-reverse;
-  height: 50px;
+  height: auto;
 }
 
 .contacts__connection-desc {
