@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Blanchard
 
 ___
